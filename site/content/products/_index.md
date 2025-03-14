@@ -1,7 +1,7 @@
 ---
-title: Too much coffee!
+title: Coffee beans galore!
 type: products
-image: img/about-direct-sourcing.jpg
+image: img/products-grid1.jpg
 intro:
   heading: What we offer
   description: Kaldi is the ultimate spot for coffee lovers who want to learn
