@@ -1,7 +1,7 @@
 ---
-title: Our Coffee Story
+title: Too much coffee!
 type: products
-image: /img/products-jumbotron.jpg
+image: img/about-direct-sourcing.jpg
 intro:
   heading: What we offer
   description: Kaldi is the ultimate spot for coffee lovers who want to learn
